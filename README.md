@@ -1,14 +1,16 @@
-# WebCrawler
+## WebCrawler
+----
 Web Crawler in Java using jsoup.jar
-
-
+---
+````
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
-
+````
+````
 public class webcrawler {
 
  public webcrawler()
